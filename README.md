@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Freddy!
+
+***
+
+#### I am an analytically-driven software engineer interested in the intersection between rhetoric and coding. Through combining technical skills with a strong understanding of communication and audience, I strive to create programs that not only function efficiently, but also effectively communicate their value to users. This unique blend of technical and rhetorical expertise results in software that is both highly functional and compelling to its user.
+
 
 <!--
 **fcaione/fcaione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
